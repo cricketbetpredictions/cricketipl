@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(205, 228, 211);
+}
+
+.navbar-brand {
+  text-transform: capitalize;
+}
+section .main {
+  height: 300px !important;
+  width: auto !important;
+}
+.contact img {
+    height: 50px;
+    margin-left: 1em;
+    margin-right: 1em;
+}
+
